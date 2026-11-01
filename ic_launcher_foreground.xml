@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Analog clock ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F3F6FA"
+        android:strokeWidth="2.5"
+        android:pathData="M39,36m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M39,31L39,36L43,38.5" />
+    <!-- Digital bar & upper timer bar -->
+    <path
+        android:fillColor="#F3F6FA"
+        android:pathData="M53,31h22v4h-22z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M53,38h15v3h-15z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M31,49h46v2.2h-46z" />
+    <!-- 6 Slots -->
+    <path
+        android:fillColor="#182030"
+        android:strokeColor="#2B374F"
+        android:strokeWidth="1.2"
+        android:pathData="M31,55h20v7h-20zM57,55h20v7h-20zM31,65h20v7h-20zM57,65h20v7h-20zM31,75h20v7h-20zM57,75h20v7h-20z" />
+</vector>

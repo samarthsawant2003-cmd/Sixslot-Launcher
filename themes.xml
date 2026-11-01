@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SixSlotLauncher" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#090B10</item>
+        <item name="android:colorBackground">#090B10</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
